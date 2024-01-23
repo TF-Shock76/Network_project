@@ -1,0 +1,12 @@
+./project/server/SimpleServer.java
+./project/server/IServer.java
+
+./project/client/ClientManager.java
+
+./project/game/IGame.java
+./project/game/Morpion.java
+./project/game/BlackJack.java
+./project/game/Card.java
+
+./client/Client.java
+./client/ShutdownThread.java
